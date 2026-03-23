@@ -790,3 +790,4 @@ def pdf_dl(n,b,a):
 if __name__ == "__main__":
     print("🚀  Dashboard → http://127.0.0.1:8050")
     app.run(debug=True)
+    server = app.server
